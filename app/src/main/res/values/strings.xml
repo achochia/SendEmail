@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SendEmail</string>
+    <string name="edit_text_to">TO:</string>
+    <string name="edit_text_cc">CC:</string>
+    <string name="edit_text_bcc">BCC:</string>
+    <string name="edit_text_subject">SUBJECT:</string>
+    <string name="edit_text_message">MESSAGE:</string>
+</resources>
